@@ -1,0 +1,5 @@
+var num1=prompt("enter a number1:")
+var num2=prompt("enter a number2:")
+var a = parseInt(num1)
+var b= parseInt(num2)
+console.log(a+b)
